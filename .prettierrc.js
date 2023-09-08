@@ -4,9 +4,9 @@ module.exports = {
     endOfLine: "auto",
     arrowParens: "always",
     trailingComma: "none",
-    semi: true,
+    semi: false,
     useTabs: false,
     singleQuote: false,
     bracketSpacing: true,
     printWidth: 200
-};
+}

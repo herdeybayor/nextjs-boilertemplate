@@ -2,6 +2,8 @@
     "name": "my-nextjs-tailwind-typescript-starter",
     "version": "0.1.0",
     "private": true,
+    "author": "Sherifdeen Adebayo <herdeybayor4real@gmail.com>",
+    "license": "UNLICENSED",
     "engines": {
         "node": ">=14.0.0",
         "yarn": ">=1.22.0",
